@@ -8,5 +8,6 @@ public class git {
         System.out.println("hellogit");
         System.out.println("hellogit111");
         System.out.println("hellogit");
+        System.out.println("push    ");
     }
 }
